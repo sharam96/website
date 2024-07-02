@@ -1,0 +1,175 @@
+h1 {
+    color: #085f5f;
+    font-size: 8em;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+body {
+    color: black;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h2 {
+    color: #085f5f;
+    font-family: "Montserrat", sans-serif;
+    font-size: 4rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.container-1{
+    background-color: #66bfbf;
+    position: relative;
+    padding-top: 120px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.upper-cloud{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    height: 100px;
+    width: 300px;
+}
+
+
+.lower-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    height: 100px;
+    width: 300px;
+}
+
+
+.pro{
+    text-decoration: underline;
+}
+
+.mountain{
+    width: 900px;
+    height: 600px;
+}
+
+.container-2{
+    margin:100px 0;
+}
+
+.img{
+    width: 300px;
+}
+
+.heading{
+    font-family: "Gideon Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    line-height: 20px;
+}
+
+hr{
+    margin-top: 200px;
+    width: 8%;
+    height: 4px;
+    border-top: 20px dotted #9eefef;
+}
+
+.skills{
+    margin-top:200px;
+}
+
+.computer{
+    width: 300px;
+}
+
+.Design{
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+color: #085f5f;
+
+}
+
+.lines{
+    text-align: left;   
+}
+
+.typing{
+    line-height: 20px;
+    text-align: center;
+}
+
+.coding .Design{
+    margin-bottom: 90px;
+}
+.btn{
+    background: #468585;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    font-size: 30px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.pop{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+.bottomcontainer{
+
+    padding: 80px 0px 50px;
+    margin: 80px;
+    
+
+}
+
+a{
+    color: #11999e;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+a:-wbsite-any-link{
+    cursor: pointer;
+}
+
+.copyright {
+    color: black;
+    font-size: 2rem;
+    padding: 20px 0;
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+     
+}
+
+@media (min-width: 1281px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+
+}
+
+@media (max-width: 480px){
+    
+}
